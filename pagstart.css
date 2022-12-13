@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Roboto:wght@300&display=swap');
+body{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.logo {
+    position: absolute;
+    width: 13.41%;
+    height: 56px;
+    left: 3.06%;
+    top: 50px;
+}
+.nav {
+}
+.navlogin{
+    position: absolute;
+    right: 15.79%;
+    top: 66px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 58.23%;
+    color: #06114F;
+}
+.navcrearecont {
+    position: absolute;
+    right: 6.73%;
+    top: 66px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 58.23%;
+    color: #06114F;
+}
+.salty{
+    position: absolute;
+    width: 44.04%;
+    height: 647px;
+    left: 47.24%;
+    top: 78px;
+}
+.partajare-memeuri{
+    position: absolute;
+    width: 44.86%;
+    height: 133px;
+    left: 3.74%;
+    top: 288px;
+    font-family: 'Merriweather',cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 43px;
+    line-height: 121.1%;
+    /* or 52px */
+    text-align: center;
+    color: #252F65;
+    letter-spacing: -0.01em;
+}
+.platforma{
+    position: absolute;
+    width: 36.41%;
+    height: 53px;
+    left: 7.07%;
+    top: 420px;
+    right: 54.52%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #252F65;
+}
+.butonupload{
+    position: absolute;
+    left: 15.52%;
+    right: 63.03%;
+    top: 479px;
+    color: white;
+    background: #6F3096;
+    border-radius: 5px;
+    width: 19.46%;
+    height: 65px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    border: none;
+    text-align: center;
+}
+.blocuri{
+    position: relative;
+}
+.bloc-mov-meme{
+    background-color: #6F3096;
+    position: absolute;
+    top: 786px;
+    width: 100%;
+    height: 673px;
+    left: -0.27%;
+}
+.bloc-alb-meme{
+    position: absolute;
+    width: 64.32%;
+    height: 458px;
+    left: 16.47%;
+    top: 897px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(38, 50, 56, 0.5);
+    border-radius: 21px;
+}
+.aitupeu{
+    position: absolute;
+    width: 26.48%;
+    height: 125px;
+    left: 19.74%;
+    top: 1004px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 121.1%;
+    /* or 39px */
+    color: #252F65;
+}
+.trimite-mail{
+    position: absolute;
+    width: 22.66%;
+    height: 90px;
+    left: 19.74%;
+    top: 1101px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 121.1%;
+    /* or 27px */
+    color: #252F65;
+}
+.desc{
+    position: absolute;
+    top: 972px;
+    left: 743.4px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+.labeldesc{
+    
+    width: 103.38px;
+    height: 19.49px;
+    top: 972px;
+    color: #06114F;
+    }
+#descriere{
+    
+    width: 353.68px;
+    height: 40.42px;
+    top: 996.88px;
+    box-sizing: border-box;
+    border: 1px solid #06114F;
+    border-radius: 5px;
+    color: rgba(6, 17, 79, 0.3);
+}
+.meme{
+    position: absolute;
+    top: 1061.38px;
+    left: 743.15px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.labelmeme{
+    width: 246.23px;
+    height: 34.61px;
+    top: 1061.38px;
+    color: #06114F;
+}
+#memedrag{
+    width: 354.22px;
+    height: 150.84px;
+    top: 1088.33px;
+    box-sizing: border-box;
+    border: 1px solid #252F65;
+    border-radius: 5px;
+    color: rgba(6, 17, 79, 0.3);
+}
+.butontrimite{
+    position: absolute;
+    left: 844px;
+    right: 463.54px;
+    top: 1268px;
+    color: white;
+    background: #6F3096;
+    border-radius: 5px;
+    width: 161.46px;
+    height: 40.42px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20.11px;
+    border: none;
+    text-align: center;
+}
+.most-viewed{
+    position: relative;
+    width: 231px;
+    height: 45px;
+    left: 69px;
+    top: 1526px;
+    font-family: 'Merriweather',cursive;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 45px;
+    /* or 52px */
+    text-align: center;
+    color: #252F65;
+    letter-spacing: -0.01em;
+}
+.meme1{
+    position: relative;
+    width: 418px;
+    height: 369px;
+    left: 53px;
+    top: 1633px;
+}
+.meme2{
+    position: relative;
+    width: 412px;
+    height: 364px;
+    left: 32px;
+    top: 1634px;
+}
+.meme3{
+    position: relative;
+    width: 418px;
+    height: 363px;
+    left: 53px;
+    
+    top: 1635px;
+}
